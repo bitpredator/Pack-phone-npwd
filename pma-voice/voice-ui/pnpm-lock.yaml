@@ -1268,8 +1268,8 @@ packages:
   electron-to-chromium@1.4.41:
     resolution: {integrity: sha512-VQEXEJc+8rJIva85H8EPtB5Ux9g8TzkNGBanqphM9ZWMZ34elueKJ+5g+BPhz3Lk8gkujfQRcIZ+fpA0btUIuw==}
 
-  elliptic@6.5.4:
-    resolution: {integrity: sha512-iLhC6ULemrljPZb+QutR5TQGB+pdW6KGD5RSegS+8sorOZT+rdQFbsQFJgvN3eRqNALqJer4oQ16YvJHlU8hzQ==}
+  elliptic@6.6.0:
+    resolution: {integrity: sha512-dpwoQcLc/2WLQvJvLRHKZ+f9FgOdjnq11rurqwekGQygGPsYSK29OMMD2WalatiqQ+XGFDglTNixpPfI+lpaAA==}
 
   emoji-regex@7.0.3:
     resolution: {integrity: sha512-CwBLREIQ7LvYFB0WyRvwhq5N5qPhc6PMjD6bYggFlI5YyDgl+0vxq5VHbMOFqLg7hfWzmu8T5Z1QofhmTIhItA==}
@@ -4547,7 +4547,7 @@ snapshots:
       browserify-rsa: 4.1.0
       create-hash: 1.2.0
       create-hmac: 1.1.7
-      elliptic: 6.5.4
+      elliptic: 6.6.0
       inherits: 2.0.4
       parse-asn1: 5.1.6
       readable-stream: 3.6.2
@@ -4909,7 +4909,7 @@ snapshots:
   create-ecdh@4.0.4:
     dependencies:
       bn.js: 4.12.0
-      elliptic: 6.5.4
+      elliptic: 6.6.0
 
   create-hash@1.2.0:
     dependencies:
@@ -5248,7 +5248,7 @@ snapshots:
 
   electron-to-chromium@1.4.41: {}
 
-  elliptic@6.5.4:
+  elliptic@6.6.0:
     dependencies:
       bn.js: 4.12.0
       brorand: 1.1.0
